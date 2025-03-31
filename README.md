@@ -32,16 +32,14 @@ For a broader look at our AI + blockchain efforts, visit [thewasserstoff.com](ht
 
 | **Repository**                                     | **Description**                                                                                                                     | **Version** | **Status**      | **Last Updated** | **Link**                                                                                 |
 |-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------:|-----------------|------------------|-----------------------------------------------------------------------------------------|
-| **TribesByAstrix**                                  | Contracts for a **social media–like** structure on-chain. Includes test cases & integration docs.<br/>Supports on-chain posts, user profiles, and interactions.             | 0.2.1       | Beta            | 2023-10-15       | [GitHub](https://github.com/Wasserstoff-Innovation/TribesByAstrix)                       |
-| **meu-web**                                         | **Open-source identity code** & web app for the **ICP blockchain**, enabling on-chain agreement signing. Hosted on ICP with a front-end to connect people & sign agreements. | 0.1.0       | Beta            | 2023-09-30       | [GitHub](https://github.com/Wasserstoff-Innovation/meu-web)                             |
+| **TribesByAstrix**                                  | Contracts for a **social media–like** structure on-chain. Includes test cases & integration docs.<br/>Supports on-chain posts, user profiles, and interactions.             | 1.0.1       | Beta            | 2025-02-15       | [GitHub](https://github.com/Wasserstoff-Innovation/TribesByAstrix)                       |
+| **meu-web**                                         | **Open-source identity code** & web app for the **ICP blockchain**, enabling on-chain agreement signing. Hosted on ICP with a front-end to connect people & sign agreements. | 2.1.0       | Beta            | 2024-09-30       | [GitHub](https://github.com/Wasserstoff-Innovation/meu-web)                             |
 
 ### Status Legend
 - **Stable** – Production-ready, feature-complete.  
 - **Beta** – Active development & testing. May have incomplete features or need additional audits.  
 - **Under Audit** – Undergoing security review or external audit.  
 - **Archived** – Deprecated or superseded by another project, kept for reference.
-
-> **Note**: The versions and last-updated dates above are **examples**—please update them to reflect your actual release tags and commit history.
 
 ---
 
